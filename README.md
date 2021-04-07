@@ -1,5 +1,5 @@
 ```
-1.在文件夹下打开终端1执行 npm i 或者cnpm i
+1.在文件夹下打开终端1执行 yarn install 或者cnpm i
 ```
 ```
 该package.json下没有json-server，若需要模拟后端接口可自行安装（npm install -g json-server）
